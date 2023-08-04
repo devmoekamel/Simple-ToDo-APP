@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a Flutter application called that  ```appqu  ```demonstrates the creation of a simple to-do list app using Flutter's built-in `setState` method for managing state. The app allows users to add and delete tasks from their to-do list.
+This is a Flutter application called that  ```appqu```demonstrates the creation of a simple to-do list app using Flutter's built-in `setState` method for managing state. The app allows users to add and delete tasks from their to-do list.
 
 ## Features
 
