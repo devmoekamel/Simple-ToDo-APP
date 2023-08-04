@@ -1,16 +1,51 @@
-# appqu
+# Simple To-Do App using Flutter with State Management
 
-A new Flutter project.
+![To-Do App Banner](https://example.com/images/todo_app_banner.png)
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This is a Flutter application that demonstrates the creation of a simple to-do list app using Flutter's built-in `setState` method for managing state. The app allows users to add and delete tasks from their to-do list.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add new tasks to the to-do list
+- Mark tasks as completed
+- Delete tasks
+- Clean and intuitive user interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![To-Do App Screenshot 1](https://example.com/images/todo_app_screenshot1.png)
+
+
+## Installation
+
+To run this application on your local machine, make sure you have Flutter installed. Then follow these steps:
+
+1. Clone this repository to your local machine using:
+   ```
+   git clone https://github.com/your-username/todo-app.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd todo-app
+   ```
+
+3. Install the required dependencies:
+   ```
+   flutter pub get
+   ```
+
+4. Run the app on an emulator or physical device:
+   ```
+   flutter run
+   ```
+
+## Dependencies
+
+The main dependencies used in this project are:
+
+- None (since the app uses Flutter's built-in `setState` for state management)
+
+For more details, refer to the `pubspec.yaml` file.
