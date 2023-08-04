@@ -15,7 +15,7 @@ This is a Flutter application that demonstrates the creation of a simple to-do l
 
 ## Screenshots
 
-![To-Do App Screenshot 1](https://example.com/images/todo_app_screenshot1.png)
+![To-Do App Screenshot 1](screenshots/todoapp.jpg)
 
 
 ## Installation
