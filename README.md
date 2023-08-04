@@ -1,4 +1,4 @@
-# Simple To-Do App (appqu)
+# Simple To-Do App
 
 
 ## Description
