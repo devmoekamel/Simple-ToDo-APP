@@ -1,6 +1,5 @@
-# Simple To-Do App using Flutter with State Management
+# Simple To-Do App 
 
-![To-Do App Banner](https://example.com/images/todo_app_banner.png)
 
 ## Description
 
